@@ -1,0 +1,48 @@
+# .gitignore
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.env.local
+.env.production
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Node
+node_modules/
+.next/
+out/
+.turbo/
+coverage/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Terraform
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.backup
+terraform/*.tfvars
+!terraform/*.tfvars.example
+
+# K8s secrets
+k8s/secrets.yaml
+
+# Docker
+*.log
