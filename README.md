@@ -26,6 +26,9 @@ CreditLens is a comprehensive credit analysis platform that leverages 18 AI agen
 └──────┘ └────────┘ └────────┘ └────────┘ └────────┘
 ```
 
+<img width="1325" height="729" alt="image" src="https://github.com/user-attachments/assets/c67a6413-9bb7-4ba0-82d5-f346c0257720" />
+
+
 ## 18 AI Agents
 
 | # | Agent | Purpose |
